@@ -7,8 +7,9 @@ function ProductList(){
         console.log('Add to Cart');
       }
     return(
-    <div className="conteiner">
         <ProductItem/>
+    <div className="conteiner">
+        
        <div className="card"> 
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGyAjbsxPxesUtOCpQ7s21x_FxvU22QW2qc88FuS23VXNTcdCd9VZleKvbfozlgHQx8o&usqp=CAU" alt="Lexsus" />
        <h1 data-text="Lexsus420">Lexsus420</h1>
